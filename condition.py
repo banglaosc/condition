@@ -12,10 +12,11 @@
 # from script import get_richest_person_worth
 # বিল_গেটস = int(get_richest_person_worth('Bill Gates'))
 # জুকারবার্গ = int(get_richest_person_worth('Mark Zuckerberg'))
-# ওয়ারেন_বাফেট = int(get_richest_person_worth('Bill Gates'))
-# ইলন_মাস্ক = int(get_richest_person_worth('Bill Gates'))
+# ওয়ারেন_বাফেট = int(get_richest_person_worth('Warren Buffett'))
+# ইলন_মাস্ক = int(get_richest_person_worth('Elon Musk'))
 
 # print(বিল_গেটস)
+
 
 বিল_গেটস = 25
 জুকারবার্গ = 30
