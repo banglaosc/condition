@@ -9,14 +9,20 @@
 # ওয়ারেন_বাফেট = int(input("ওয়ারেন_বাফেট এর টাকা পরিমান : "))
 # ইলন_মাস্ক = int(input("ইলন_মাস্ক এর টাকা পরিমান : "))
 
-from script import get_richest_person_worth
+# from script import get_richest_person_worth
+# বিল_গেটস = int(get_richest_person_worth('Bill Gates'))
+# জুকারবার্গ = 
+# ওয়ারেন_বাফেট = 35
+# ইলন_মাস্ক = 10
 
-বিল_গেটস = int(get_richest_person_worth('Bill Gates'))
+# print(বিল_গেটস)
+
+বিল_গেটস = 25
 জুকারবার্গ = 30
 ওয়ারেন_বাফেট = 35
 ইলন_মাস্ক = 10
 
-print(বিল_গেটস)
+
 
 if বিল_গেটস > জুকারবার্গ:
     print("বিল_গেটস বেশি ধনি")
