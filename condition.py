@@ -11,9 +11,9 @@
 
 # from script import get_richest_person_worth
 # বিল_গেটস = int(get_richest_person_worth('Bill Gates'))
-# জুকারবার্গ = 
-# ওয়ারেন_বাফেট = 35
-# ইলন_মাস্ক = 10
+# জুকারবার্গ = int(get_richest_person_worth('Mark Zuckerberg'))
+# ওয়ারেন_বাফেট = int(get_richest_person_worth('Warren Buffett'))
+# ইলন_মাস্ক = int(get_richest_person_worth('Elon Musk'))
 
 # print(বিল_গেটস)
 
