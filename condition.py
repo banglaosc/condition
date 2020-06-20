@@ -1,5 +1,4 @@
 
-
 # বিল গেটস, জুকারবার্গ , ওয়ারেন বাফেট, ইলন মাস্ক ,
 # এদের মধ্যে কে আজকের তারিখে বেশি ধনি
 # তা আমরা ইফ এলস স্টেমেন্টর মাধ্যমে দেখবো ।
@@ -9,25 +8,25 @@
 # ওয়ারেন_বাফেট = int(input("ওয়ারেন_বাফেট এর টাকা পরিমান : "))
 # ইলন_মাস্ক = int(input("ইলন_মাস্ক এর টাকা পরিমান : "))
 
-# from script import get_richest_person_worth
-# বিল_গেটস = int(get_richest_person_worth('Bill Gates'))
-# জুকারবার্গ = 
+from script import get_richest_person_worth
+বিল_গেটস = int(get_richest_person_worth('Bill Gates'))
+# জুকারবার্গ = int(get_richest_person_worth('Bill Gates'))
+# ওয়ারেন_বাফেট = int(get_richest_person_worth('Bill Gates'))
+# ইলন_মাস্ক = int(get_richest_person_worth('Bill Gates'))
+
+# print(বিল_গেটস)
+#
+# বিল_গেটস = 25
+# জুকারবার্গ = 30
 # ওয়ারেন_বাফেট = 35
 # ইলন_মাস্ক = 10
 
-# print(বিল_গেটস)
-
-বিল_গেটস = 25
-জুকারবার্গ = 30
-ওয়ারেন_বাফেট = 35
-ইলন_মাস্ক = 10
 
 
-
-if বিল_গেটস > জুকারবার্গ:
-    print("বিল_গেটস বেশি ধনি")
-else:
-    print("জুকারবার্গ বেশি ধনি")
+# if বিল_গেটস > জুকারবার্গ:
+#     print("বিল_গেটস বেশি ধনি")
+# else:
+#     print("জুকারবার্গ বেশি ধনি")
     
 
 if ওয়ারেন_বাফেট > বিল_গেটস:
